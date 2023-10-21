@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Lorenzo and I'm an italian student of a Bsc in Computer Engineering - Computer Science at UniTN.
+
+[Here](https://lyreplus.github.io/) you can find more informations about me!
+
 <!--
 **Lyreplus/lyreplus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

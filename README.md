@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Lorenzo** and I'm an Italian student doing a Bachelor's Degree in Computer Engineering - Computer Science at UniTN.
+My name is **Lorenzo** and I'm an Italian student attending a Bachelor's Degree in Computer Engineering - Computer Science at UniTN.
 
 ### **[Here](https://lyreplus.github.io/)** you can find more informations about me!
 
